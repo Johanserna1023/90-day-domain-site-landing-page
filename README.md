@@ -1,7 +1,5 @@
 # 90-day-domain-site-landing-page
 
-# Domain Site Landing Page - Solution
-
 <img src="./screen/desktop-design.png" alt="Solucion preview" style="max-width: 100%; height: auto;">
 
 Esta es una solución del proyecto **Domain Site Landing Page** como parte del reto de codificación #100DaysOfProjects [Front End Club](https://www.facebook.com/frontendclubfb). La mejor manera de escribir un buen código es programando todos los días🔥.
